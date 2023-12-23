@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **email: cece06pesle@gmail.com discord: angel_cursed**
 
-- ⚡ Fun fact **I am the only one in my class who's loving programming**
+- ⚡ Fun fact **I use my left hand**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
