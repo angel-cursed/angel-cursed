@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm angel cursed</h1>
 <h3 align="center">A young student passionate about programming</h3>
 
-- 🌱 I’m currently learning **python🐍 and maybe java later☕**
+- 🌱 I’m currently learning **python🐍 and java☕**
 
 - 👀 I’m interested in **programming, tennis, video games, and much more🙂!**
 
